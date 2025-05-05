@@ -1,0 +1,26 @@
+{
+   "best model": "Random Forest",
+   "best parameters": {
+      "max_depth": 20,
+      "n_estimators": 300
+   },
+   "important features": [
+      "age",
+      "test_time",
+      "DFA",
+      "sex",
+      "Jitter(Abs)",
+      "HNR",
+      "PPE",
+      "NHR",
+      "RPDE",
+      "Shimmer:APQ5",
+      "Shimmer(dB)",
+      "Shimmer",
+      "Shimmer:DDA"
+   ],
+   "target": "motor_UPDRS",
+   "mse": 1.65801271,
+   "rmse": 1.28763842,
+   "R\u00b2": 0.97402423
+}
